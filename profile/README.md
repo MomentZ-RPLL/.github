@@ -8,7 +8,7 @@
 - [Mobile Application](https://github.com/MomentZ-RPLL/momentz-mobile)
 - [Back-End API](https://github.com/MomentZ-RPLL/momentz-backend)
 
-## Capstone Project Teams
+## Project Teams
 
 | Name                      |     NIM     | LinkedIn Profile                                                   |
 | ------------------------- | ----------- | ------------------------------------------------------------------ |
